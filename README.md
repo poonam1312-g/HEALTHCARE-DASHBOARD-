@@ -91,4 +91,3 @@ The dashboard helps identify diagnosis patterns and hospital resource utilizatio
 Conclusion
 The Healthcare Analytics Dashboard provides valuable insights into patient data, treatment patterns, and hospital operations. By visualizing key healthcare metrics, the dashboard supports data-driven decision making and helps improve healthcare service management.
 
-The Healthcare Analytics Dashboard provides valuable insights into patient data, treatment patterns, and hospital operations. By visualizing key healthcare metrics, the dashboard supports data-driven decision making and helps improve healthcare service management.
